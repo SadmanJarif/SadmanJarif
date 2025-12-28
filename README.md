@@ -9,7 +9,7 @@
 Self-motivated and optimistic web developer passionate about creating innovative digital solutions. Harvard CS50x graduate with expertise in WordPress, HTML/CSS, Flutter, and SQL. Through professional experience and volunteer work, I've built responsive websites, integrated AI systems, and optimized user experiences. Complemented by entrepreneurship training from Santa Clara University, I approach development with both technical skill and business insight. Eager to learn emerging technologies and constantly seeking opportunities to grow as a developer while contributing to impactful projects.
 
 ### 🎓 CS50x 2025 Certificate
-![CS50x Certificate](/images/cs50x-20-281-29.png)
+![CS50x Certificate](https://hebbkx1anhila5yf.public.blob.vercel-storage.com/CS50x%20%281%29-E4z5kNxWkJXbjRhog0MpIqcxgmLbGO.png)
 *[Verify Certificate](https://certificates.cs50.io/2b218a0c-378c-4fc6-906b-f937e1c8fbd7)*
 
 # 💻 Tech Stack:
